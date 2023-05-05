@@ -1,7 +1,4 @@
 # -*- coding: utf-8 -*-
-"""PDS Namespace.
-
-It's a nice namespace.
-"""
+"""PDS Namespace."""
 
 __import__("pkg_resources").declare_namespace(__name__)
